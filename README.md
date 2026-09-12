@@ -15,14 +15,18 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### 🤖 Machine Learning & XAI
 * **[Customer Churn Predictor & Dashboard](https://github.com/dimplevincia/customer-churn-predictor)** 📉
   * **Tech Stack:** Python 🐍 | XGBoost ⚡ | SHAP 🔍 | Streamlit 🎈
-  * **What it does:** An end-to-end machine learning web application predicting telecom customer churn probability with real-time parameter tuning and interactive local SHAP waterfall plots for deep model explainability. 🔍
-  * **Live Demo:** [Check out the live app! 🌐](https://customer-churn-predictor-lufzdeaxngm5ganldmyqft.streamlit.app)
+  * **Highlights:** End-to-end churn prediction pipeline with local SHAP waterfall plots for deep model explainability.
+  * **Demo:** [Live Web App 🌐](https://customer-churn-predictor-lufzdeaxngm5ganldmyqft.streamlit.app)
 
-* **[Upcoming ML Projects ⏳]**
-  * Working on more advanced data science models and end-to-end MLOps pipelines. Stay tuned! ✨
-
+#### 📊 Data Analytics & Visualization
+* **[Netflix Content Analysis Dashboard](https://github.com/dimplevincia/Netflix-Content-Analysis-Dashboard)** 🎬
+  * **Tech Stack:** Python 🐍 | Pandas 🐼 | Plotly 📊 | Streamlit 🎈
+  * **Highlights:** Exploratory Data Analysis (EDA) uncovering catalog expansion trends, genre distribution, and rating patterns across Netflix titles.
+  * **Demo:** [Live Web App 🌐](https://netflix-content-analysis-dashboard-2k3u9zyij79jek4f23fgzu.streamlit.app)
 ---
 
 ### 📈 GitHub Analytics & Stats
