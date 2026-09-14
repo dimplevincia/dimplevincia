@@ -34,3 +34,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dimplevincia&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimplevincia&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
+# 🩻 Medical Diagnostic Vision System (Chest X-Ray Classifier + Grad-CAM)
+
+An end-to-end deep learning diagnostic web application built with **PyTorch** and **Streamlit**. The system classifies chest X-ray images into Normal vs. Pneumonia and generates **Grad-CAM (Gradient-weighted Class Activation Mapping)** heatmaps to provide visual explainability for clinical decision support.
+
+## 🚀 Live Demo
+- **Live App**: [Streamlit Cloud Link](YOUR_STREAMLIT_APP_URL_HERE)
+
+## 🛠️ Tech Stack & Architecture
+- **Framework**: PyTorch & Torchvision
+- **Model**: MobileNetV2 (Transfer Learning with custom classifier head)
+- **Explainable AI**: Grad-CAM (Targeting final convolutional features)
+- **Web Interface**: Streamlit
+- **Image Processing**: OpenCV & Pillow
+
+## 📂 Project Structure
+```text
+medical-vision-classifier/
+├── model/
+│   └── mobilenet_model.pth    # Fine-tuned model weights
+├── utils/
+│   └── grad_cam.py            # Grad-CAM heatmap generator
+├── app.py                     # Streamlit frontend & inference pipeline
+├── train.py                   # Model architecture & weight extraction
+├── requirements.txt           # Environment dependencies
+└── README.md
