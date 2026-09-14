@@ -39,7 +39,7 @@
 An end-to-end deep learning diagnostic web application built with **PyTorch** and **Streamlit**. The system classifies chest X-ray images into Normal vs. Pneumonia and generates **Grad-CAM (Gradient-weighted Class Activation Mapping)** heatmaps to provide visual explainability for clinical decision support.
 
 ## 🚀 Live Demo
-- **Live App**: [[Streamlit Cloud Link](YOUR_STREAMLIT_APP_URL_HERE)](https://medical-vision-classifier-5m7sztnjkghqqtcvpf8kdj.streamlit.app/)
+- **Live App**: (https://medical-vision-classifier-5m7sztnjkghqqtcvpf8kdj.streamlit.app/)
 
 ## 🛠️ Tech Stack & Architecture
 - **Framework**: PyTorch & Torchvision
