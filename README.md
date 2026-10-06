@@ -60,8 +60,9 @@ medical-vision-classifier/
 ├── requirements.txt           # Environment dependencies
 └── README.md
 
-# 💳 Solaris Credit Card Campaign & SQL Segmentation
-An end-to-end data analytics and SQL pipeline built in Python and SQLite to analyze credit card transaction behavior, spending tiers, and campaign volumes. The system processes raw transaction data, builds a local relational database, generates automated visualization charts, and executes robust SQL queries for marketing insights.
+# Solaris Credit Card Campaign & SQL Segmentation
+
+An end-to-end data analytics and SQL pipeline built in Python and SQLite to analyze credit card transaction behavior, spending tiers, and campaign volumes.
 
 🚀 **Project Links**
 * **GitHub Repository:** [credit-card-sql-segmentation](https://github.com/dimplevincia/credit-card-sql-segmentation)
@@ -74,6 +75,7 @@ An end-to-end data analytics and SQL pipeline built in Python and SQLite to anal
 * **Version Control:** Git & GitHub 🐙
 
 📂 **Project Structure**
+```text
 solaris-sql-project/
 ├── solaris_analysis.py              # Automated data processing & visualization pipeline
 ├── queries.sql                      # Professional SQL segmentation & aggregation queries
@@ -81,4 +83,3 @@ solaris-sql-project/
 ├── targeted_solaris_customers_summary.csv # Processed summary dataset
 ├── solaris_campaign_volume.png      # Generated merchant category volume chart
 └── README.md
-
